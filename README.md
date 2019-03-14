@@ -12,7 +12,7 @@
 
 1. 소스코드 클로닝
 ```shell
-$ git clone https://github.com/psygrammer/deep_choice.git
+$ git clone https://github.com/psygrammer/cloudpsy.git
 ```
 2. git submodule
 ```shell
