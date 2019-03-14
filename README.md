@@ -16,7 +16,7 @@ $ git clone https://github.com/psygrammer/cloudpsy.git
 ```
 2. git submodule
 ```shell
-deep_choice 설치 디렉토리로 이동 후
+cloudpsy 설치 디렉토리로 이동 후
 $ git submodule init
 $ git submodule update
 ```
