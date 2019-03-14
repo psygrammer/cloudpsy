@@ -1,6 +1,6 @@
 [submodule "data-science-on-gcp"]
-	path = ds-on-gcp/data-science-on-gcp
+	path = ds_on_gcp/data-science-on-gcp
 	url = https://github.com/GoogleCloudPlatform/data-science-on-gcp.git
 [submodule "aws-ml/Machine-Learning-with-AWS"]
-	path = aws-ml/Machine-Learning-with-AWS
+	path = aws_ml/Machine-Learning-with-AWS
 	url = https://github.com/TrainingByPackt/Machine-Learning-with-AWS.git
